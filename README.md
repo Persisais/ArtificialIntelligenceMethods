@@ -1,1 +1,1 @@
-# ArtificialIntelligenceMethods
+# Методы искуственного интеллекта
